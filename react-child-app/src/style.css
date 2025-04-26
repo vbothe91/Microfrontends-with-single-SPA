@@ -1,0 +1,9 @@
+body {
+    margin: 0;
+}
+
+div {
+    background-color: #211f1f;
+    padding: 5px;
+    color: #fff;
+}
