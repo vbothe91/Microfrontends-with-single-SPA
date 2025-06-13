@@ -4,7 +4,7 @@ In this repository, we are working on single spa microfrontends implementation (
 
 ## Youtube Videos
 1. https://youtu.be/pp7feFgUn9U?feature=shared (Microfrontends Basics, Single SPA basics, created first app with root config and react microfrontends)
-2. (Vue js integration using Single SPA)
+2. https://youtu.be/3j1j9oN1T58?feature=shared (Vue js integration using Single SPA)
 3. (Angular integration using Single SPA)
 
 ## Steps to create root config application
