@@ -2,8 +2,8 @@ body {
     margin: 0;
 }
 
-div {
-    background-color: #211f1f;
+.react-container {
+    background-color: rgb(182, 10, 136);
     padding: 5px;
     color: #fff;
 }
